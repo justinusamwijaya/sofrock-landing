@@ -1,0 +1,19 @@
+
+$primary-color: #B73030;
+
+*{
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+html{
+    font-size: 62.5%;
+    // scroll-behavior: smooth;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+body {
+    margin: 0;
+    background: rgb(243, 243, 243);
+}
