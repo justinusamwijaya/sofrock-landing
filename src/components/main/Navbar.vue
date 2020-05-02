@@ -160,7 +160,7 @@ export default {
 
                 .menu {
                     font-weight: bold;
-                    font-size: 1.6rem;
+                    font-size: 1.3rem;
                     min-width: 9rem;
                     width: 10%;
                     height: 100%;

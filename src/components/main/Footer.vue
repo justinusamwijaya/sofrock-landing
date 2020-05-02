@@ -78,7 +78,7 @@ export default {
 
                     li {
                         color: white;
-                        font-size: 2rem;
+                        font-size: 1.6rem;
                         padding-bottom: 1rem;
 
                         a {
@@ -107,7 +107,7 @@ export default {
             bottom: 3rem;
             right: 3rem;
             color: white;
-            font-size: 1.6rem;
+            font-size: 1.4rem;
         }
     }
 
@@ -127,6 +127,7 @@ export default {
 
             #footer-logo {
                 height: auto;
+                width: 20rem;
                 position: initial;
             }
 
