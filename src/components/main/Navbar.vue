@@ -111,7 +111,6 @@ export default {
             return images('./' + nat + ".svg")
         },
         testing() {
-            console.log('clicked')
             this.$emit('test', 'HI THERE')
         },
     }
