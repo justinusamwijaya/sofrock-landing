@@ -126,7 +126,7 @@ export default {
             }
 
             #footer-logo {
-                height: auto;
+                height: 5.2050rem;
                 width: 20rem;
                 position: initial;
             }
