@@ -1,4 +1,4 @@
-# sofrock-landing
+# sofrock
 
 ## Project setup
 ```
