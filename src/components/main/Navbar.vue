@@ -45,7 +45,7 @@
       <transition name="scroll">
         <div v-if="mobileMenuModal" id="mobile-menu-modal" class="hide-desktop">
             <div class="mobile-menu-unit">
-                <button @click="mobileNationModal = !mobileNationModal" id="mobile-nat">
+                <button @hover="mobileNationModal = !mobileNationModal" id="mobile-nat">
                     <div>{{ nations[lang].label }}</div> <img :src="getNationalityImg(lang)" alt="">
                 </button>
                 <transition name="fade">
